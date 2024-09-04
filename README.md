@@ -1,4 +1,4 @@
-# Make It Real - NAME OF THE PROJECT
+# Make It Real - 404-page
 
 This is a solution to the 404-not-found-page project of the Make It Real top fullstack developer program.
 
@@ -26,22 +26,23 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](design/404-mobile-preview.png)
+![](design/404-desktop-preview.png)
 
 ## My process
 
-1. Aprender cómo hacer apps responsive
-2. Crear HTML semántico con header, main y footer
-3. Crear 2 divs, uno con la imagen y el otro con el texto y el botón
-4. Agregar clase de css global incluyendo la tipografía [Space Mono](https://fonts.google.com/specimen/Space+Mono)
-5. Agregar clase de css para el footer
-6. Agregar clase de css para el botón
-7. Centrar para Mobile: 375px
-8. Agregar margen superior e inferior a la imagen y centrarla
-9. Agregar margen superior al botón
-10. Poner el footer en la parte baja de la página
-11. Colocar 2 columnas para pantallas más grandes
-12. Asegurar responsive hasta Desktop: 1440px
+1. Learn how to make responsive web apps
+2. Create Semantic HTML Structure
+3. Set up two div elements - one to hold the image and the other for the text and button
+4. Apply global css style adding the font [Space Mono](https://fonts.google.com/specimen/Space+Mono)
+5. Style the Header
+6. Style the Main including the button
+7. Style the Footer
+8. Center for Mobile Version
+9. Add Margins
+10. Position Footer at the Bottom
+11. Set two columns for larger screens
+12. Ensure full responsiveness up to desktop
 
 ### Built with
 
