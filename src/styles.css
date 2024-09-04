@@ -1,3 +1,6 @@
 * {
   font-family:'Space Mono', monospace;
 }
+
+.attribution { color: #cecece; font-size: 11px; text-align: center; }
+.attribution a { color: #bdbdbd; }
