@@ -31,7 +31,7 @@ Users should be able to:
 ## My process
 
 1. Aprender cómo hacer apps responsive
-2. Crear HTML con header, main y footer
+2. Crear HTML semántico con header, main y footer
 3. Crear 2 divs, uno con la imagen y el otro con el texto y el botón
 4. Agregar clase de css global incluyendo la tipografía [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 5. Agregar clase de css para el footer
@@ -40,7 +40,8 @@ Users should be able to:
 8. Agregar margen superior e inferior a la imagen y centrarla
 9. Agregar margen superior al botón
 10. Poner el footer en la parte baja de la página
-11. Asegurar responsive hasta Desktop: 1440px
+11. Colocar 2 columnas para pantallas más grandes
+12. Asegurar responsive hasta Desktop: 1440px
 
 ### Built with
 
@@ -51,27 +52,24 @@ Users should be able to:
 
 ### What I learned
 
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+Make responsive apps using @media
 
 ```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
+@media (min-width: 800px) {
+  main {
+    flex-direction: row;
+    align-items: center;
+  }
 
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
+  .scarecrow, .message {
+    margin-top: 0; 
+  }
+}
 ```
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+I'm not completely comfortable with flex properties
 
 ### Useful resources
 
