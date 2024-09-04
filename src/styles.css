@@ -1,5 +1,6 @@
 html, body {
   font-family:'Space Mono', monospace;
+  font-weight: 500;
   height: 100%;
   margin: 0;
 }
