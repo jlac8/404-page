@@ -36,8 +36,11 @@ Users should be able to:
 4. Agregar clase de css global incluyendo la tipografía [Space Mono](https://fonts.google.com/specimen/Space+Mono)
 5. Agregar clase de css para el footer
 6. Agregar clase de css para el botón
-7. Ajustar y centrar para Mobile: 375px
-8. Asegurar responsive hasta Desktop: 1440px
+7. Centrar para Mobile: 375px
+8. Agregar margen superior e inferior a la imagen y centrarla
+9. Agregar margen superior al botón
+10. Poner el footer en la parte baja de la página
+11. Asegurar responsive hasta Desktop: 1440px
 
 ### Built with
 

@@ -2,5 +2,37 @@
   font-family:'Space Mono', monospace;
 }
 
+.header {
+  margin: 4%;
+  font-size: 18px;
+  color: #333333;
+}
+
+.scarecrow{
+  margin: 4%;
+}
+.message {
+  margin: 4%;
+}
+
+img {
+  max-width: 350px; /* Define un tamaño máximo absoluto si lo deseas */
+}
+
+h1 {
+  font-size: 42px;
+}
+
+p {
+  font-size: 18px;
+}
+
 .attribution { color: #cecece; font-size: 11px; text-align: center; }
 .attribution a { color: #bdbdbd; }
+
+button {
+  background-color: #333333;
+  color: white;
+  padding: 15px 32px;
+  cursor: pointer;
+}
